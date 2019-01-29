@@ -1,4 +1,4 @@
-resolver: lts-12.16
+resolver: lts-13.5
 extra-deps:
 - yaml-0.10.0
 - infer-license-0.2.0
